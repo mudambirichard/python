@@ -9,4 +9,4 @@ def fruit_labeler(thing):
     else:
         return 'banana'
 
-print (fruit_labeler(4.5))
+print (fruit_labeler('muda'))
